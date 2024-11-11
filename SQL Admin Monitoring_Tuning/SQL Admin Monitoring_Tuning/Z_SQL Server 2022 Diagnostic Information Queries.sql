@@ -1191,6 +1191,7 @@ AS (SELECT wait_type, wait_time_ms/ 1000.0 AS [WaitS],
         N'XE_DISPATCHER_WAIT', N'XE_LIVE_TARGET_TVF', N'XE_TIMER_EVENT')
     AND waiting_tasks_count > 0)
 SELECT
+ getdate() as Zeit,
     MAX (W1.wait_type) AS [WaitType],
 	CAST (MAX (W1.Percentage) AS DECIMAL (5,2)) AS [Wait Percentage],
 	CAST ((MAX (W1.WaitS) / MAX (W1.WaitCount)) AS DECIMAL (16,4)) AS [AvgWait_Sec],

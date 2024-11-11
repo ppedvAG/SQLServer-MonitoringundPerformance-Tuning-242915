@@ -35,8 +35,8 @@
           <FullPath>01_Virtualisierung.sql</FullPath>
         </FileNode>
         <FileNode Name="02_MAXDOP.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>02_MAXDOP.sql</FullPath>
         </FileNode>
@@ -64,10 +64,155 @@
           <AssociatedConnUserName />
           <FullPath>03_TraceFlags.sql</FullPath>
         </FileNode>
+        <FileNode Name="04_ADR_Fill1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_ADR_Fill1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_ADR_Fill2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_ADR_Fill2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_ADR_SETUP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_ADR_SETUP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04_ADR_View_Speicher.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04_ADR_View_Speicher.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_part Sicht.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_part Sicht.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_ForwardRecordCount.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07_ForwardRecordCount.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Monitoring.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_Monitoring.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09 QueryStore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09 QueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_QueryStore per TSQL.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09_QueryStore per TSQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_QueryStore_Hints.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09_QueryStore_Hints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25_Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>25_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30_Wartung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>30_Wartung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="MaintenanceSolution.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MaintenanceSolution.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Bad Procedure.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_Bad Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_instnwnd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="z_Perfmon_Indikatoren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>z_Perfmon_Indikatoren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Seiten und Blöcke.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Z_Seiten und Blöcke.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_Spieltabelle mit ID.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_Spieltabelle mit ID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_SQL Server 2022 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_SQL Server 2022 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Z_TSQL_WaitforWhat.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Z_TSQL_WaitforWhat.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="FirstResponderKit.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>FirstResponderKit.zip</FullPath>
+        </FileNode>
+        <FileNode Name="IM.zip">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IM.zip</FullPath>
+        </FileNode>
+        <FileNode Name="SQLPerfmonVorlage_ColStore.xml">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQLPerfmonVorlage_ColStore.xml</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
